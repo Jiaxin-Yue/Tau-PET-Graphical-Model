@@ -1,0 +1,8 @@
+three selected subjects:
+sub-1: 006_S_6252
+sub-2: 011_S_6303
+sub-3: AR-001
+
+sub-1 and sub-2 are used for showing patch matching, building graph
+sub-3 is used for showing prediction -- include a 1*427 distance matrix here.
+
