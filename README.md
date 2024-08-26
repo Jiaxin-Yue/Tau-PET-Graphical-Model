@@ -1,2 +1,5 @@
 # Tau-PET-Graphical-Model
-Graphical modelling of Tau PET surface data for its subtyping and staging in Alzheimer's Disease
+Graphical Modeling of Cortical Tau Pathology Topography for its Subtyping in Alzheimer's Disease
+
+# Getting started
+See the tutorial graphical_model_tutorial.m for more details
